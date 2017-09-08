@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/auth"
+	"github.com/DinoInc/fhir/auth"
 	"github.com/mitre/heart"
 	"golang.org/x/oauth2"
 )

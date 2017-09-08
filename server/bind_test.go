@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/models"
+	"github.com/DinoInc/fhir/models"
 	. "gopkg.in/check.v1"
 )
 

@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/models"
-	"github.com/intervention-engine/fhir/search"
+	"github.com/DinoInc/fhir/models"
+	"github.com/DinoInc/fhir/search"
 )
 
 var fhirJSONContentType = []string{"application/json; application/fhir+json; charset=utf-8"}

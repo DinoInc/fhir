@@ -9,7 +9,7 @@ import (
 
 	"strconv"
 
-	"github.com/intervention-engine/fhir/models"
+	"github.com/DinoInc/fhir/models"
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

@@ -13,8 +13,8 @@ import (
 	"gopkg.in/mgo.v2/bson"
 
 	"github.com/gin-gonic/gin"
-	"github.com/intervention-engine/fhir/models"
-	"github.com/intervention-engine/fhir/search"
+	"github.com/DinoInc/fhir/models"
+	"github.com/DinoInc/fhir/search"
 )
 
 // BatchController handles FHIR batch operations via input bundles

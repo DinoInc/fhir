@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/intervention-engine/fhir/models"
+	"github.com/DinoInc/fhir/models"
 	"github.com/pebbe/util"
 	. "gopkg.in/check.v1"
 )
