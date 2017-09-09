@@ -1,4 +1,4 @@
-Intervention Engine FHIR Server [![Build Status](https://travis-ci.org/intervention-engine/fhir.svg?branch=stu3_mar2017)](https://travis-ci.org/intervention-engine/fhir) [![GoDoc](https://godoc.org/github.com/intervention-engine/fhir?status.svg)](https://godoc.org/github.com/intervention-engine/fhir)
+Intervention Engine FHIR Server [![Build Status](https://travis-ci.org/DinoInc/fhir.svg?branch=master)](https://travis-ci.org/DinoInc/fhir) [![GoDoc](https://godoc.org/github.com/intervention-engine/fhir?status.svg)](https://godoc.org/github.com/intervention-engine/fhir)
 ===================================================================================================================================================================
 
 This project provides [HL7 FHIR STU3](http://hl7.org/fhir/STU3/index.html) models and server components implemented in Go and using MongoDB as storage. **This branch is the official STU3 release**. This is a
